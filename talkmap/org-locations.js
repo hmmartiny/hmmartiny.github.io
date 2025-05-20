@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Global distribution of AMR gene variants in 214,095 metagenomic samples<br />Novo Nordisk Foundation Symposium 2021 on Local Landscape and Outlook Regarding Solutions to Antimicrobial Resistance Challenges; Hellerup, Denmark",
+    55.7336657,
+    12.5655408
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Identifying genetic signatures in regions around antimicrobial resistance genes<br />6th Annual Danish Bioinformatic Conference; Aalborg, Denmark",
+    57.0462626,
+    9.9215263
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Digging deep or AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Samples<br />ASM NGS 2020; Online",
+    43.5904719,
+    3.8595132
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Large-scale analysis of 214K metagenomes for antimicrobial resistance surveillance<br />DTU Microbes Initative Conference 2022; Kongens Lyngby, Denmark",
+    55.7718649,
+    12.5051413
+  ],
+  [
+    "Monitoring antimicrobial resitance in 100K host and environmental samples<br />Antimicrobial Resistance - Genomes, Big Data and Emerging Technologies; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Using publicly available metagenomes to describe the distribution of *mcr* gene variants<br />VEO Symposium 2021; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Unraveling the co-occurence patterns of antimicrobial resistance genes within 214K metagenomic samples<br />ASM Microbe 2022 & ISME18; Washington DC, USA",
+    38.8950368,
+    -77.0365427
   ]
 ];
