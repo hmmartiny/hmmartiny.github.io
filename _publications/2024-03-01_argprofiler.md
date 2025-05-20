@@ -1,5 +1,5 @@
 ---
-title: " ARGprofiler—a pipeline for large-scale analysis of antimicrobial resistance genes and their flanking regions in metagenomic datasets Open Access "
+title: "ARGprofiler—a pipeline for large-scale analysis of antimicrobial resistance genes and their flanking regions in metagenomic datasets"
 collection: publications
 permalink: /publication/2024-03-01-argprofiler
 excerpt: 'Our workflow ARGprofiler is designed to handle large quantities of metagenomic datasets to profile antimicrobial resistance genes and their flanking regions'
